@@ -24,7 +24,6 @@ String urlDuracionPausa1 = "https://apiriego.onrender.com/duracionPausa/" + idVa
 String urlDuracionPausa2 = "https://apiriego.onrender.com/duracionPausa/" + idValvula2;
 
 
-
 const int pinValvula1 = 23;
 const int pinValvula2 = 22;
 
